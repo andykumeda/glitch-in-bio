@@ -1,42 +1,52 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
+  "metaTitle": "AndyK's Links",
+  "metaDescription": "AndyK's Links",
+  "name": "AndyK's Links",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://andyk.link/cryptoface-nobg.png",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
+      "url": "https://andykumeda.com",
+      "text": "Website",
+      "img":"",
+      "altText": ""
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "url": "https://andyk.run",
+      "text": "Running Info",
       "img": ""
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://ak.photos",
+      "text": "Photo Portfolio",
+      "img":""
+    },
+    {
+      "url": "https://andykumeda.com/music",
+      "text": "Music",
+      "img":""
+    },
+    {
+      "url": "https://andyk.xyz",
+      "text": "Web3",
+      "img":""
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "",
     "arena":"",
     "bandcamp": "",
     "cohost":"",
-    "dev": "https://dev.to/glitch",    
-    "facebook": "",
-    "github": "https://github.com/glitchdotcom",
-    "gitlab": "",
+    "dev": "",    
+    "facebook": "https://facebook.com/andykumeda",
+    "github": "https://github.com/andykumeda",
+    "gitlab": "https://gitlab.com/andykumeda",
     "hashnode": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/andykumeda",
     "keybase":"",
     "kofi": "",
     "letterboxd":"",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
+    "linkedin": "https://www.linkedin.com/in/andykumeda",
     "mastodon": "",
     "medium": "",
     "patreon": "",
@@ -47,11 +57,12 @@
     "spotify": "",
     "stackoverflow": "",
     "substack": "",
-    "twitter": "https://twitter.com/glitch",
+    "twitter": "https://twitter.com/0xAndyK",
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "email": "support@glitch.com"
+    "youtube": "",
+    "email": "andy@kumeda.com"
   }
 }
+
